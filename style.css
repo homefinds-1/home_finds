@@ -173,6 +173,7 @@ p{
     margin-top: px; 
     display: block;
     margin: 0 auto;
+    font-weight: 600;
 }
 
 h2 {
@@ -214,7 +215,7 @@ a{
     .img-box{height: 120px;}
     .images{min-width: 140px;}
     .img-box{width: 140px;}
-    #main{font-size: 50px;}
+    #main{font-size: 57px;}
   }
 
 @media (max-width: 600px) {
@@ -227,7 +228,7 @@ a{
     .img-box{height: 100px;}
     .images{min-width: 120px;}
     .img-box{width: 120px;}
-    #main{font-size: 45px;}
+    #main{font-size: 54px;}
   }
 
 @media (max-width: 450px) {
@@ -240,11 +241,11 @@ a{
     .img-box{height: 80px;}
     .images{min-width: 100px;}
     .img-box{width: 100px;}
-    #main{font-size: 40px;}
+    #main{font-size: 50px;}
   }  
 
   @media (max-width: 450px) {
-    #main{font-size: 35px;}
+    #main{font-size:44px;}
   }
 
 button {
