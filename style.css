@@ -3,6 +3,7 @@
 body {
     background-image:linear-gradient(to bottom left,  hsl(180, 56%, 42%), rgb(31, 10, 124));
     font-family: "Oswald", sans-serif;
+    font-weight: bold 700;
 }
 
 #main {

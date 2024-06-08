@@ -16,7 +16,7 @@ const product = [
     {
         id: 2,
         image: 'https://m.media-amazon.com/images/I/61Mv4h1f4DL._AC_SX466_.jpg',
-        title: 'iPhone charging station: 3-in-1',
+        title: 'iPhone charging station:3-in-1',
         price: "17.99",
         link: 'https://www.amazon.com/-/he/%D7%9E%D7%98%D7%A2%D7%9F-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%AA%D7%97%D7%A0%D7%AA-%D7%98%D7%A2%D7%99%D7%A0%D7%94-%D7%9C%D7%90%D7%99%D7%99%D7%A4%D7%95%D7%9F/dp/B0C2BMNHW2?ref_=Oct_d_orecs_d_16225009011_4&pd_rd_w=VfJSO&content-id=amzn1.sym.883ba8ec-a586-4ad0-b4cc-46903118bb20&pf_rd_p=883ba8ec-a586-4ad0-b4cc-46903118bb20&pf_rd_r=CHZSSZ5QB2RNVT5J3RQ7&pd_rd_wg=HQMnB&pd_rd_r=072dd76d-a6f4-4f0c-951a-41c2373c49c8&pd_rd_i=B0C2BMNHW2',
     },
