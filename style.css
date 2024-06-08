@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
 body {
     background-image:linear-gradient(to bottom left,  hsl(180, 56%, 42%), rgb(31, 10, 124));
+    font-family: "Oswald", sans-serif;
 }
 
 #main {
@@ -50,7 +53,6 @@ body {
 
 #myLabel {
     font-size: 50px;
-    font-family: Monospace;
     display: block;
     margin: 0 auto;
     margin-top: 90px;
@@ -58,7 +60,6 @@ body {
 
 #label2Container {
     font-size: 40px;
-    font-family: Monospace;
     display: block;
     margin-top: 90px;
     margin-left: 20px;
@@ -155,7 +156,6 @@ body {
 .bottom {
     margin-top: 20px;
     font-size: 10px;
-    font-family: fantasy;
     width: 100%;
     text-align: center;
     display: flex;
@@ -176,7 +176,6 @@ p{
 
 h2 {
     font-size: 14px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: hsl(229, 100%, 13%);
     margin-top: px;
     display: block;
