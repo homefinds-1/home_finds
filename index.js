@@ -132,6 +132,76 @@ const product = [
         price: "29.99",
         link: 'https://amzn.to/3VZ4FW1',
     },
+    {
+        id: 19,
+        image: 'https://m.media-amazon.com/images/I/71kEMBI05hL.__AC_SX300_SY300_QL70_FMwebp_.jpg',
+        title: 'Inkles Printer',
+        price: "159.99",
+        link: 'https://amzn.to/4ckBu5A',
+    },
+    {
+        id: 20,
+        image: 'https://shopinnoviahome.com/cdn/shop/products/Innovia_AmazonStore_TT_Black-05_PDPimages_1500x1500_v100.jpg?v=1678201025&width=1445',
+        title: 'Automatic Dispenser',
+        price: "19.99",
+        link: 'https://amzn.to/3LmvDRH',
+    },
+    {
+        id: 21,
+        image: 'https://m.media-amazon.com/images/I/71U2R-2V+bL._SX522_.jpg',
+        title: 'Mop Slippers',
+        price: "9.99",
+        link: 'https://amzn.to/45Z3vO1',
+    },
+    {
+        id: 22,
+        image: 'https://m.media-amazon.com/images/I/31kvX73tNHL._QL92_SH45_SS200_.jpg',
+        title: 'Portable Washing Machine',
+        price: "19.99",
+        link: 'https://amzn.to/4cuuWkG',
+    },
+    {
+        id: 23,
+        image: 'https://m.media-amazon.com/images/I/81GFFLiZOCL._AC_SX679_.jpg',
+        title: 'Banana Filler',
+        price: "8.99",
+        link: 'https://amzn.to/3zmVyWA',
+    },
+    {
+        id: 24,
+        image: 'https://m.media-amazon.com/images/I/61t-bMNX3SL.__AC_SX300_SY300_QL70_FMwebp_.jpg',
+        title: 'Spinning Whisk',
+        price: "9.99",
+        link: 'https://amzn.to/3RJhtxr',
+    },
+    {
+        id: 25,
+        image: 'https://m.media-amazon.com/images/I/61CU9E0IcRL.__AC_SX300_SY300_QL70_FMwebp_.jpg',
+        title: 'Folding Board',
+        price: "9.99",
+        link: 'https://amzn.to/45KUMPm',
+    },
+    {
+        id: 26,
+        image: 'https://m.media-amazon.com/images/I/711g1hCyNsL.__AC_SY300_SX300_QL70_FMwebp_.jpg',
+        title: 'Beverage Barricade',
+        price: "19.99",
+        link: 'https://amzn.to/3XEsyna',
+    },
+    {
+        id: 27,
+        image: 'https://m.media-amazon.com/images/I/61B8V9TNljL._AC_SX679_.jpg',
+        title: 'Egg Cracker',
+        price: "12.99",
+        link: 'https://amzn.to/4cFqFe6',
+    },
+    {
+        id: 28,
+        image: 'https://m.media-amazon.com/images/I/51M5kH29axL._AC_SX679_.jpg',
+        title: 'Reusable Lint Roller',
+        price: "68.99",
+        link: 'https://amzn.to/3KZFjRR',
+    },
 ]
 
 const categories = [...new Set(product.map((item) => { return item }))]
@@ -155,7 +225,6 @@ const displayItem = (items) => {
                 </div> 
                 <div class='bottom'>
                     <a href="${link}"><p>${title}</p></a>
-                    <a href="${link}"><h2>$ ${price}</h2></a>
                     
                 </div>
             </div>`
