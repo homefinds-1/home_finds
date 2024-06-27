@@ -97,6 +97,41 @@ const product = [
         price: "19.99",
         link: 'https://amzn.to/3XEtkjY',
     },
+    {
+        id: 14,
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VmvYidqM30Dr8gRy_Aiq7xb4tmyMs0EwXQ&s',
+        title: 'Suction Phone case',
+        price: "12.99",
+        link: 'https://amzn.to/3VHMjrx',
+    },
+    {
+        id: 15,
+        image: 'https://www.ezvalo.com/cdn/shop/files/EzTask_Beam_Pro.jpg?v=1695262293&width=512',
+        title: 'Smart Desk Lamp',
+        price: "68.99",
+        link: 'https://amzn.to/3Vzr1MA',
+    },
+    {
+        id: 16,
+        image: 'https://m.media-amazon.com/images/I/51YODa9MscL._SX679_.jpg',
+        title: 'Sunscreen Applicator',
+        price: "13.99",
+        link: 'https://amzn.to/3W0dUpe',
+    },
+    {
+        id: 17,
+        image: 'https://img.kwcdn.com/product/1eed510230/119616bc-c881-445a-a11e-e9e1a28d2aa1_800x800.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp',
+        title: 'Back Stretcher',
+        price: "16.99",
+        link: 'https://amzn.to/4cBesHs',
+    },
+    {
+        id: 18,
+        image: 'https://m.media-amazon.com/images/I/819lnG03xQL._AC_SX679_.jpg',
+        title: 'Laundry Turtle',
+        price: "29.99",
+        link: 'https://amzn.to/3VZ4FW1',
+    },
 ]
 
 const categories = [...new Set(product.map((item) => { return item }))]
