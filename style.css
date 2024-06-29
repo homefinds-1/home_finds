@@ -219,7 +219,7 @@ a{
   }
 
 @media (max-width: 600px) {
-    p {font-size: 15px;}
+    p {font-size: 17px;}
     h2 {font-size: 14px;}
     a {font-size: 14px;}
     #medialogo {font-size: 30px;}
@@ -232,7 +232,7 @@ a{
   }
 
 @media (max-width: 450px) {
-    p {font-size: 12px;}
+    p {font-size: 14px;}
     h2 {font-size: 13px;}
     a {font-size: 12px;}
     #medialogo {font-size: 25px;}
