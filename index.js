@@ -228,7 +228,7 @@ const product = [
         image: 'https://m.media-amazon.com/images/I/71Ye2gk9OvL._AC_SL1500_.jpg',
         title: 'Lemon Juicer',
         price: "13.99",
-        link: 'https://amzn.to/3W0dUpe',
+        link: 'https://amzn.to/3zolmBL',
     },
     {
         id: 33,
